@@ -10,5 +10,6 @@ Universidad Nacional de Colombia
 
 ## Contenido
 - [Información general 2024-1s](/docs/analisis1-0-programa_calendario_2024-1s.pdf)
-- [Calificación 2024-1s](/docs/temas_examenes_2023-1s.md)
+- [Material de clase]()
+- [Calificación 2024-1s](/docs/calificacion_2024-1s.md)
 - [Referencias bibliográficas curso](/docs/referencias_curso.md)
