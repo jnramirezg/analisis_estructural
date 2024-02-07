@@ -12,5 +12,4 @@ Universidad Nacional de Colombia
 - [Información general 2024-1s](/docs/analisis1-0-programa_calendario_2024-1s.pdf)
 - [Temas de los exámenes 2024-1s](/docs/temas_examenes_2023-1s.md)
 - [Cronograma y evaluación 2024-1s](/docs/cronograma_2023-1s.md)
-- [Contenido temático](/docs/contenido_tematico.md)
 - [Referencias bibliográficas curso](/docs/referencias_curso.md)
