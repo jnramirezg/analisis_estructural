@@ -11,6 +11,6 @@ Siempre que usted falte a una actividad evaluativa, deberá haber algún documen
 
 # Temas de los exámenes
 # Examen 1 (20%): jueves 14 de marzo de 2023 [(Solución)](/docs/SOL-examen_1-2024-1s.pdf)
-Se evaluará:
+Se evaluarán los temas vistos hasta la clase del jueves 07 de marzo de 2024 (incluida):
 * [1- esfuerzos y deformaciones](https://drive.google.com/open?id=104lKfI1VRzslMdFB1pAwGhERrh9oGN1h&usp=drive_fs) (teoría y ejercicios).
 * [1-taller 1: esfuerzos y deformaciones](https://drive.google.com/open?id=10QgibnqjxKvLfkhXx6CiD0RVWCu-3Cy_&usp=drive_fs)
