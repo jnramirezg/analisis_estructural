@@ -1,4 +1,4 @@
-# Sobre la evaluación:
+# Condiciones generales
 - Serán sujetos de evaluación todos los temas vistos hasta la clase antes del examen, incluido los temas de estudio autónomo.
 - No será posible el uso de ninguna herramienta digital diferente a la calculadora (no graficadora).
 - Los exámenes serán individuales.
@@ -9,9 +9,9 @@
 # Falta a una actividad evaluativa
 Siempre que usted falte a una actividad evaluativa, deberá haber algún documento que lo exonere de dicha inasistencia. Cuando usted por algún motivo de fuerza mayor no pueda asistir al examen, usted debe avisarle al profesor con anterioridad ya sea personalmente o por correo. En esos casos en lo posible, debe demostrarlo. Sin una excusa o una notificación previa no se repetirán los exámenes y usted tendrá como nota un cero (0.0).
 
+# Temas de los exámenes
+# Examen 1 (20%): jueves 14 de marzo de 2023 [(Solución)](/docs/SOL-examen_1-2024-1s.pdf)
 
-# Examen 1 (20%): jueves 14 de marzo de 2023 [(Solución)](/docs/SOL-examen_1-2023-1s.pdf)
-Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la-evaluación).
-
-- [01-conceptos fundamentales](https://drive.google.com/file/d/1wHVbaJxeK1ICHDDJ3cXFpDhef2HDRwxe/view) (teoría y ejercicios).
-- [Taller 01](https://drive.google.com/file/d/1y1wtrcX0VtL_hD6Vs7VCk9YncGb-i4BN/view).
+# Diapositivas de clase
+* [1- esfuerzos y deformaciones](https://drive.google.com/open?id=104lKfI1VRzslMdFB1pAwGhERrh9oGN1h&usp=drive_fs) (teoría y ejercicios).
+* [1-taller 1: esfuerzos y deformaciones](https://drive.google.com/open?id=10QgibnqjxKvLfkhXx6CiD0RVWCu-3Cy_&usp=drive_fs)
