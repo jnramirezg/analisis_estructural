@@ -24,8 +24,8 @@ Se evaluarán los temas vistos hasta la clase del jueves 29 de agosto de 2024 (s
 * [3- flexión de vigas](https://drive.google.com/open?id=11A6pCJXq9y3Th-9lonbxzlyC6_EK-wt-&usp=drive_fs):
   - 3.1. Introducción.
   - 3.2. Comparación FEM y teorías de vigas.
-3.3. Hipótesis fundamentales en las teorías de vigas.
-3.4. Esfuerzos normales en vigas.
-3.5. Esfuerzos cortantes en vigas.
-3.6. Ecuaciones diferenciales fundamentales de vigas.
+  - 3.3. Hipótesis fundamentales en las teorías de vigas.
+  - 3.4. Esfuerzos normales en vigas.
+  - 3.5. Esfuerzos cortantes en vigas.
+  - 3.6. Ecuaciones diferenciales fundamentales de vigas.
 
