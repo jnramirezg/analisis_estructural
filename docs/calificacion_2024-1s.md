@@ -31,3 +31,5 @@ Se evaluarán los temas vistos hasta la clase del jueves 29 de agosto de 2024 (s
 
 ## Examen 3 (20%): viernes 27 de septiembre de 2024 [(Solución)](/docs/SOL-examen_1-2024-1s.pdf)
 * Aplicaciones de vigas.
+* [4-taller 4: esfuerzos y deflexiones de vigas](https://drive.google.com/open?id=1OW3K-aJhGC0x5qujUuk6lt98ZGHpJY3Q&usp=drive_fs)
+
