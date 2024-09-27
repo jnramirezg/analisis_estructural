@@ -29,3 +29,5 @@ Se evaluarán los temas vistos hasta la clase del jueves 29 de agosto de 2024 (s
   - 3.5. Esfuerzos cortantes en vigas.
   - 3.6. Ecuaciones diferenciales fundamentales de vigas.
 
+# Examen 3 (20%): viernes 27 de septiembre de 2024 [(Solución)](/docs/SOL-examen_1-2024-1s.pdf)
+-Aplicaciones de vigas.
