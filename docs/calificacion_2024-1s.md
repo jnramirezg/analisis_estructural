@@ -14,7 +14,7 @@ Siempre que usted falte a una actividad evaluativa, deberá haber algún documen
 Se evaluarán los temas vistos hasta la clase del jueves 07 de marzo de 2024 (incluida):
 * [1- esfuerzos y deformaciones](https://drive.google.com/open?id=104lKfI1VRzslMdFB1pAwGhERrh9oGN1h&usp=drive_fs) (teoría y ejercicios).
 * [1-taller 1: esfuerzos y deformaciones](https://drive.google.com/open?id=10QgibnqjxKvLfkhXx6CiD0RVWCu-3Cy_&usp=drive_fs)
-## Examen 2 - parte 1 (10%): jueves 22 de agosto de 2024 [(Solución)]([/docs/SOL-examen_2_1-2024-1s.pdf](https://drive.google.com/open?id=1PCwQPZsKWT46YpXhtQBD25Kdr3tJg7P_&usp=drive_fs))
+## Examen 2 - parte 1 (10%): jueves 22 de agosto de 2024 [(Solución)]((https://drive.google.com/open?id=1PCwQPZsKWT46YpXhtQBD25Kdr3tJg7P_&usp=drive_fs))
 Se evaluarán los temas vistos hasta la clase del jueves 21 de marzo de 2024 (incluida):
 * [2- elementos cargados axialmente](https://drive.google.com/file/d/10k0Oat643NL9DCfbBcMMtVzHKVx1LNF5/view?usp=sharing) (teoría y ejercicios).
 * [2-taller 2: elementos cargados axialmente](https://drive.google.com/file/d/10mEBuyAbF8UjK9lb3uoxn1nTgEtrBfOL/view?usp=sharing)
