@@ -8,3 +8,4 @@ Si quiere correr por usted mismo uno de los cuadernos, o hacer una copia para es
 * [02-analisis_viga_simplemente_apoyada_carga_uniforme](02-analisis_viga_simplemente_apoyada_carga_uniforme.ipynb)
 * [03-analisis_viga_simplemente_apoyada_carga_puntual](03-analisis_viga_simplemente_apoyada_carga_puntual.ipynb)
 * [04-ejemplo 2 del capítulo 20](04-ejemplo_2_cap_10.ipynb)
+* [05-ecuación diferencial columna con extremos articulados](05-ecuaciones_diferencial_columna_extremos_articulados.ipynb)
