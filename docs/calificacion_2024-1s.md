@@ -33,5 +33,5 @@ Se evaluarán los temas vistos hasta la clase del jueves 29 de agosto de 2024 (s
 * Aplicaciones de vigas.
 * [4-taller 4: esfuerzos y deflexiones de vigas](https://drive.google.com/open?id=1OW3K-aJhGC0x5qujUuk6lt98ZGHpJY3Q&usp=drive_fs)
 
-## Examen final (40%): viernes 04 de octubre de 2024)
+## Examen final (40%): viernes 04 de octubre de 2024
 * Todos los contenidos vistos en clase durante el periodo académico.
