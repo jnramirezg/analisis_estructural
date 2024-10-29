@@ -9,13 +9,9 @@
 Siempre que usted falte a una actividad evaluativa, deberá haber algún documento que lo exonere de dicha inasistencia. Cuando usted por algún motivo de fuerza mayor no pueda asistir al examen, usted debe avisarle al profesor con anterioridad ya sea personalmente o por correo. En esos casos en lo posible, debe demostrarlo. Sin una excusa o una notificación previa no se repetirán los exámenes y usted tendrá como nota un cero (0.0).
 
 # Temas de los exámenes
-## Examen 1 (20%): jueves 14 de marzo de 2024 [(Solución)]()
 
-## Examen 2 - parte 1 (10%): jueves 22 de agosto de 2024 [(Solución)]()
-
-## Examen 2 - parte 2 (10%): martes 10 de septiembre de 2024 [(Solución)]()
-
-## Examen 3 (20%): viernes 27 de septiembre de 2024 [(Solución)]() 
-
-## Examen final (40%): viernes 04 de octubre de 2024
-* Todos los contenidos vistos en clase durante el periodo académico.
+## Evaluación parcial 0 (10%): martes 19 de noviembre de 2024 [(Solución)]()
+## Evaluación parcial 1 (20%): jueves 05 de diciembre de 2024 [(Solución)]()
+## Evaluación parcial 2 (20%): jueves 30 de enero de 2025 [(Solución)]()
+## Evaluación parcial 3 (20%): jueves 06 de marzo de 2025 [(Solución)]()
+## Evaluación final (30%): jueves 13 de marzo de 2025 [(Solución)]()
