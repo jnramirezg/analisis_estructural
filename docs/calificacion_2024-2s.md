@@ -11,6 +11,12 @@ Siempre que usted falte a una actividad evaluativa, deberá haber algún documen
 # Temas de los exámenes
 
 ## Evaluación parcial 0 (10%): martes 19 de noviembre de 2024 [(Solución)]()
+Serán evaluados los siguientes temas:
+* Equilibrio estático.
+* Centros de gravedad y fuerzas distribuidas.
+* Momentos de inercia.
+* Cerchas.
+* Vigas.
 ## Evaluación parcial 1 (20%): jueves 05 de diciembre de 2024 [(Solución)]()
 ## Evaluación parcial 2 (20%): jueves 30 de enero de 2025 [(Solución)]()
 ## Evaluación parcial 3 (20%): jueves 06 de marzo de 2025 [(Solución)]()
