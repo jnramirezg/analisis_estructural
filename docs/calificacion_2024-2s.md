@@ -18,6 +18,9 @@ Serán evaluados los siguientes temas:
 * Cerchas.
 * Vigas.
 ## Evaluación parcial 1 (20%): jueves 05 de diciembre de 2024 [(Solución)]()
+Se evaluarán los temas vistos hasta la clase del martes 26 de noviembre de 2024 (incluida):
+* [1- esfuerzos y deformaciones](https://drive.google.com/open?id=104lKfI1VRzslMdFB1pAwGhERrh9oGN1h&usp=drive_fs) (teoría y ejercicios). Sin incluir lo relacionado con Ley de Hooke.
+* [1-taller 1: esfuerzos y deformaciones](https://drive.google.com/open?id=10QgibnqjxKvLfkhXx6CiD0RVWCu-3Cy_&usp=drive_fs)
 ## Evaluación parcial 2 (20%): jueves 30 de enero de 2025 [(Solución)]()
 ## Evaluación parcial 3 (20%): jueves 06 de marzo de 2025 [(Solución)]()
 ## Evaluación final (30%): jueves 13 de marzo de 2025 [(Solución)]()
