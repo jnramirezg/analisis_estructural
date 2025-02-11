@@ -21,7 +21,7 @@ Serán evaluados los siguientes temas:
 Se evaluarán los temas vistos hasta la clase del martes 26 de noviembre de 2024 (incluida):
 * [1- esfuerzos y deformaciones](https://drive.google.com/open?id=104lKfI1VRzslMdFB1pAwGhERrh9oGN1h&usp=drive_fs) (teoría y ejercicios). Sin incluir lo relacionado con Ley de Hooke.
 * [1-taller 1: esfuerzos y deformaciones](https://drive.google.com/open?id=10QgibnqjxKvLfkhXx6CiD0RVWCu-3Cy_&usp=drive_fs)
-## Evaluación parcial 2 (20%): jueves 30 de enero de 2025 [(Solución)]()
+## Evaluación parcial 2 - parte 1(20%): martes 11 de febrero de 2025 
 Se evaluarán los siguientes temas:
 * [2- elementos cargados axialmente](https://drive.google.com/file/d/10k0Oat643NL9DCfbBcMMtVzHKVx1LNF5/view?usp=sharing) (teoría y ejercicios) sin incluir efectos térmicos.
 * [2-taller 2: elementos cargados axialmente](https://drive.google.com/file/d/10mEBuyAbF8UjK9lb3uoxn1nTgEtrBfOL/view?usp=sharing)
