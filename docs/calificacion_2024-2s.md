@@ -30,6 +30,6 @@ Se evaluarán los siguientes temas:
 Se evaluarán los siguientes temas:
 * Aplicaciones de vigas.
 * [4-taller 4: esfuerzos y deflexiones de vigas](https://drive.google.com/open?id=1OW3K-aJhGC0x5qujUuk6lt98ZGHpJY3Q&usp=drive_fs)
-* 
+
 ## Evaluación final (30%): jueves 13 de marzo de 2025
 * Todos los contenidos vistos en clase durante el periodo académico.
